@@ -1,0 +1,19 @@
+{
+    "colors": {
+      "primary": "#DA1B1B",
+      "primary_variation": "#A70E0E",
+      
+      "background_dark": "#171717", 
+      "green": "#6FF56C",
+      "dark": "#000000",
+      "light": "#FFFFFF",   
+     
+      "heading": "#FFFFFF",
+      "text": "#DCDCDC",
+      "muted": "#AEAEAE",
+
+      "background_fail": "#22040b",
+      "background_success": "#0c1c08"
+    }
+  
+}
