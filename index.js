@@ -45,7 +45,7 @@ const App = () => {
     return (
         <ThemeProvider theme={colors}>
             <PaperProvider>
-                <Home />
+                <Tour />
             </PaperProvider>
         </ThemeProvider>
     )

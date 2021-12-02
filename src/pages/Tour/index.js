@@ -63,6 +63,7 @@ const Tour = () => {
             </Text>
             <Spacer size="40px" />
             <Button
+            mode="contained"
             block
             background={tourData[actualTour]?.button}
             onPress={() => setactualTour(actualTour + 1)}
